@@ -1,5 +1,5 @@
 # vue_nativescript
-use vue with nativscript
+environment setup note for vue with nativscript
 
 # Result
 ![result](doc/result1.jpg)
