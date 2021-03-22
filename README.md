@@ -20,7 +20,7 @@ cd projectname
 
 
 //run on my smartphone
-tns preview projectname         
+tns preview         
     //install native playground app
     //scan QR code from playground app
 
