@@ -31,3 +31,4 @@ tns preview
 # Acknowledgement and References
 - [vue](https://vuejs.org/)  
 - [nativescript](https://nativescript.org/)  
+- [template-tab-navigation-vue](https://github.com/NativeScript/nativescript-app-templates/tree/master/packages/template-tab-navigation-vue)
