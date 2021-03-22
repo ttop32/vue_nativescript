@@ -12,7 +12,7 @@ use vue with nativscript
 
 //init
 npm i -g nativescript
-tns doctor
+tns doctor                  //check prerequisite environment
 tns create projectname
     //vue.js
     //tabs    
