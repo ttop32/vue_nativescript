@@ -19,10 +19,14 @@ tns create projectname
 cd projectname
 
 
+
+
+
 //run on my smartphone
 tns preview         
     //install native playground app
     //scan QR code from playground app
+
 
 //run on emulator
 tns run --emulator --no-hmr
