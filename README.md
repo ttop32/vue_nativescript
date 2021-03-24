@@ -26,13 +26,13 @@ tns preview
 
 //run on emulator
 tns run --emulator --no-hmr
-    //Install Android Studio and open it
-    //click Configure without creating new project
-    //click AVD Manager
-    //start emulator 
-    
+    //before run command, user need to manually open emulator
+        //Install Android Studio and open it
+        //click Configure without creating new project
+        //click AVD Manager
+        //start emulator
 
-  ```
+```
 
 # Acknowledgement and References
 - [vue](https://vuejs.org/)  
