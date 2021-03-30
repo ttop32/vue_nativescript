@@ -13,10 +13,10 @@ environment setup personal note for vue with nativscript
 //init
 npm i -g nativescript
 tns doctor                  //check prerequisite environment
-tns create projectname
+tns create PROJECTNAME
     //vue.js
     //tabs    
-cd projectname
+cd PROJECTNAME
 
 
 
